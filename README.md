@@ -1,1 +1,2 @@
 # PERSISTENCIA-CON-ARCHIVOS-DE-TEXTO-RivMatias
+Desarrollar un programa en C++ que permita registrar datos de estudiantes como nombre, edad, carrera y promedio, guardándolos en un archivo de texto para que no se pierdan al cerrar el programa. El sistema incluirá validaciones para asegurar que los datos ingresados sean correctos, además de un menú interactivo que facilite el registro y consulta de la información. Con esto se busca practicar el manejo de archivos, validaciones y estructuras de control en C++.
