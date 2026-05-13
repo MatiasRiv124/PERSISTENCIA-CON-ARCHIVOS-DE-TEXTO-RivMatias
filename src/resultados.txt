@@ -1,0 +1,55 @@
+================================
+     RESULTADOS DEL PROGRAMA
+================================
+Estudiante: Matias Rivadeneyra
+Fecha: 2026
+Lenguaje: C++
+--------------------------------
+OPERACION MATEMATICA:
+Resultado = 20
+--------------------------------
+LISTA DEL CURSO:
+--------------------------------
+1. Acosta Hanna  |  Sin notas registradas
+2. Andrade Hugo  |  Sin notas registradas
+3. Atiencia Josue  |  Sin notas registradas
+4. Balarrezo Diego  |  Sin notas registradas
+5. Barrionuevo Job  |  Sin notas registradas
+6. Bedoya Juan  |  Sin notas registradas
+7. Bravo Samuel  |  Sin notas registradas
+8. Cajiao Paulo  |  Sin notas registradas
+9. Calvopina Brandon  |  Sin notas registradas
+10. Castelo Katherine  |  Sin notas registradas
+11. Chacha Victor  |  Sin notas registradas
+12. Chiluiza Steed  |  Sin notas registradas
+13. Dominguez Daniel  |  Sin notas registradas
+14. Freire Alan  |  Sin notas registradas
+15. Gualle Abisag  |  Sin notas registradas
+16. Guaman Alexander  |  Sin notas registradas
+17. Guanga Sebastian  |  Sin notas registradas
+18. Guanotoa Karla  |  Sin notas registradas
+19. Landeta Edison  |  Sin notas registradas
+20. Lara Karen  |  Sin notas registradas
+21. Loor Jhon  |  Sin notas registradas
+22. Lopez Washington  |  Sin notas registradas
+23. Miranda Imanol  |  Sin notas registradas
+24. Monar Jhair  |  Sin notas registradas
+25. Muyulema Mateo  |  Sin notas registradas
+26. Narvaez Antonella  |  Sin notas registradas
+27. Nunez Bryan  |  Sin notas registradas
+28. Pilco Mario  |  Sin notas registradas
+29. Pomaquero Katherine  |  Sin notas registradas
+30. Quevedo Gina  |  Sin notas registradas
+31. Rivadeneyra Matias  |  Notas: 10, 8, 7, 7, 8  |  Promedio: 8  |  APROBADO
+32. Rocha Carolina  |  Sin notas registradas
+33. Sanchez Isaac  |  Sin notas registradas
+34. Segovia Joseph  |  Sin notas registradas
+35. Supe Joan  |  Sin notas registradas
+36. Toapanta Matias  |  Sin notas registradas
+37. Verdesoto Kevin  |  Sin notas registradas
+38. Villacres Alejandro  |  Sin notas registradas
+39. Viteri Shantal  |  Sin notas registradas
+--------------------------------
+Total aprobados:  1
+Total reprobados: 0
+================================
